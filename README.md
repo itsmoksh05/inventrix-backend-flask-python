@@ -86,7 +86,7 @@ Test modules cover:
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/inventrix-backend.git
+git clone https://github.com/itsmoksh05/inventrix-backend-flask-python.git
 cd inventrix-backend
 ```
 
